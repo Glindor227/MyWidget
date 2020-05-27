@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyWidget</string>
+    <string name="w_text">тут текст</string>
 </resources>
